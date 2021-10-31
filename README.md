@@ -1,16 +1,30 @@
-# eco_life
+Quellen der verwendeten Bilder:
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://getavataaars.com/
+https://www.flaticon.com/premium-icon/sandbox_2383147?term=sandbox&page=1&position=78&page=1&position=78&related_id=2383147&origin=tag
+https://freepngimg.com/png/33356-toy-transparent
+https://freepngimg.com/png/10721-burger-transparent
+https://freepngimg.com/png/13494-food-png-clipart
+https://www.freeiconspng.com/img/20143
+https://www.cleanpng.com/png-mathematics-cartoon-division-clip-art-maths-sign-572128/
+https://www.pngitem.com/middle/TTmTm_school-png-school-png-transparent-background-school-icon/
+https://freepngimg.com/png/35390-teacher-transparent
+http://www.freepngclipart.com/free-png/34763-movie-reels-transparent-image
+https://www.pngitem.com/middle/oohmxJ_football-player-running-behind-the-ball-comments-football/
+https://www.pinclipart.com/pindetail/iTJhobh_human-photography-black-and-white-bullying-clipart-png/
+https://www.transparentpng.com/details/book-transparent_15312.html
+https://www.freeiconspng.com/img/3544
+https://www.pngitem.com/middle/wJTxwx_picket-fence-hd-png-download/
+https://www.pngitem.com/middle/bRmJmi_download-basketball-free-png-photo-images-and-clipart/
+https://www.transparentpng.com/details/photos-clipart-car_7531.html
+https://www.pngitem.com/middle/xhRwTJ_party-horn-computer-icons-clip-art-birthday-party/
+https://www.pngitem.com/middle/JTmiiJ_green-party-hat-birthday-party-hat-clipart-black/
+https://www.pngitem.com/middle/hiwxmmo_university-icon-university-clipart-black-and-white-hd/
+https://www.pngitem.com/middle/iRwwhm_12th-grade-college-information-night-thumbnail-image-high/
+https://www.pngitem.com/middle/miRhiw_briefcase-office-suitcase-case-trunk-bag-leather-briefcase/
+https://www.pngitem.com/middle/xTwwJR_image-freeuse-tree-png-transparent-clip-art-gallery/
+https://www.pngitem.com/middle/JhTwhh_transparent-background-question-marks-hd-png-download/
+https://www.geo.de/geolino/quiz-ecke/14613-quiz-wissenstest-natur-und-umwelt
+https://www.awi.de/im-fokus/muell-im-meer/10-fragen-10-antworten.html
+https://www.bpb.de/lernen/formate/was-geht/193653/quiz-was-weisst-du-ueber-umweltschutz
+https://www.pngitem.com/middle/ixRmxb_game-over-png-game-over-pixel-sprite-transparent/
